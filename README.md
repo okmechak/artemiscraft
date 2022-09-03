@@ -5,3 +5,7 @@ Minecraft mod of ongoing NASA crewed spaceflight program called - Artemis, that 
 ## Project setup
 
 Source: [https://docs.minecraftforge.net/](https://docs.minecraftforge.net/)
+
+## Known problems:
+ - Don't forget to update run/eula.txt
+ - Server port should be chanhged from default server-port=25565 to any other free for example 25566
